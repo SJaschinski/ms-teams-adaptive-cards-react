@@ -1,2 +1,2 @@
-# ms-teams-adaptive-cards-react
+# adaptive-cards
 Created with CodeSandbox
