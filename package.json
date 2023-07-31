@@ -21,7 +21,7 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-form": "4.0.1",
-    "react-scripts": "4.0.0",
+    "react-scripts": "4.0.1",
     "styled-components": "5.3.6",
     "swiper": "8.4.4",
     "typescript": "4.8.4"
@@ -41,5 +41,11 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "eslintConfig": {
+      "extends": [
+        "react-app",
+        "react-app/jest"
+      ]
+  }
 }
